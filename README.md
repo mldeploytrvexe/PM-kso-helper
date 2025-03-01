@@ -1,1 +1,1 @@
-# PM-kso-helper
+# Репозиторий проекта Kso Helper
